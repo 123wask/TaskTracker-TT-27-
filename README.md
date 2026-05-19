@@ -36,7 +36,7 @@
 
 ![Диагностика](screenshots/diagnostics.png)
 
-![Создание отчёта](https://github.com/123wask/TaskTracker-TT-27-/blob/18575c097086fd902d24489bb7068257511b77ff/screenshots/support_report_created.png)
+![Создание отчёта]    ![image alt](https://github.com/123wask/TaskTracker-TT-27-/blob/18575c097086fd902d24489bb7068257511b77ff/screenshots/support_report_created.png)
 
 ## 📁 Структура проекта
 
