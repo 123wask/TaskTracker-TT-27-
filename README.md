@@ -36,7 +36,7 @@
 
 ![Диагностика](screenshots/diagnostics.png)
 
-![Создание отчёта](screenshots/support_report_created.png)
+![Создание отчёта](support_report_created.png)
 
 ## 📁 Структура проекта
 
